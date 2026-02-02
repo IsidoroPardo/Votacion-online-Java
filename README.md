@@ -34,4 +34,5 @@ Perfiles y roles:
   - Dni: 22334455L
   - Contraseña: analista1234
 - Usuario:
-  - Dni: 01234567J 1234admin
+  - Dni: 01234567J
+  - Contraseña: 1234admin
