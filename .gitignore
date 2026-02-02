@@ -1,0 +1,18 @@
+# Build y archivos generados
+/target/
+/build/
+/out/
+
+# Tomcat / servidores
+/servers/
+/.metadata/
+
+# Clases compiladas dentro del proyecto web
+**/WEB-INF/classes/
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
