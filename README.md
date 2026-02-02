@@ -25,3 +25,13 @@ Configuración de la Base de Datos:
 - Puerto: 3306
 
 3. Configura la ruta en src/main/resurces/db.properties
+
+Perfiles y roles:
+- Administrador:
+  - Dni: 00000000A
+  - Contraseña admin1234
+- Analista:
+  - Dni: 22334455L
+  - Contraseña: analista1234
+- Usuario:
+  - Dni: 01234567J 1234admin
